@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{985F2EFB-7ABA-4650-8046-910E307F6111}</ProjectGuid>
+    <ProjectGuid>{32D1B3CD-BE51-4D70-94BC-AAFFB7E7A3EA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_05.FibonacciNumbers</RootNamespace>
-    <AssemblyName>05.FibonacciNumbers</AssemblyName>
+    <RootNamespace>_06.PrimeChecker</RootNamespace>
+    <AssemblyName>06.PrimeChecker</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
